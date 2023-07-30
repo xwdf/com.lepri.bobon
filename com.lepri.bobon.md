@@ -1,5 +1,5 @@
 {
-"geo":"UA, ENG, RU",
-"view":"https://bananzaqeuesto.com/test/testpars.html?",
-"appsChecker":"0"
+"geo":"UA, ENG, RU, FR",
+"view":"https://chancesyours.com/stormof?",
+"appsChecker":"1"
 }
